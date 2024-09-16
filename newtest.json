@@ -1,0 +1,18 @@
+[
+  {
+     "id": 1,
+     "title": "TERMALY Лосьон для тела, кардамон + ветивер, 200 мл",
+      "catecories": "Кремы и лосьоны для тела",
+     "discription": "Увлажняет и питает кожу тела, тонизирует, придает упругость и эластичность.",
+     "price": 1500,
+     "url": "https://static.insales-cdn.com/images/products/1/1637/773105253/R8Fuv_KCDVM.jpg",
+  },
+  {
+    "id": 2,
+"title": "TERMALY Лосьон для тела, пион + персик, 200 мл",
+"catecories": "Кремы и лосьоны для тела",
+"discription": "Лосьон для тела Termaly увлажняет и питает, восстанавливает гидро-липидную мантию кожи.",
+"price": 2000,
+"url": "https://static.insales-cdn.com/images/products/1/1731/644073155/DSC04885_-2.jpg",
+  },
+]
